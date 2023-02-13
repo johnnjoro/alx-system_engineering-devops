@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tales /etc/passwd
+echo tail /etc/passwd
